@@ -55,14 +55,14 @@
       <guid>2406ac52-d421-4988-909d-cf4519fbb03d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add Cart/Add 1 Cart</testCaseId>
+      <testCaseId>Test Cases/Cart/Add 1 Cart</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>474e8c35-eeee-4f59-953b-31ade3880d57</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add Cart/Add Multiple Cart</testCaseId>
+      <testCaseId>Test Cases/Cart/Add Multiple Cart</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
